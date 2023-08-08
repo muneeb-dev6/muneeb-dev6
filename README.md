@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muneeb
 - 👀 I’m interested in mobile technologies
-- 🌱 I’m currently learning native android development, AI and flutter 
+- 🌱 I’m currently learning native android development, AI and react native 
   
   
 
